@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 
 ### Areas of expertise:
 - Front end development using HTML5, CSS3, JavaScript ES5 and ES6 focusing on UX/UI crossing different browsers and devices
-- Cross platform (iOS, Android) mobile application development using Vue.js, Onsen UI, Node.js, Webpack, Cordova, APIs, JSON/XML, XCode, Eclipse
+- Cross platform (iOS, Android) mobile application development using Vue.js, Onsen UI, Node.js, Webpack, Cordova, APIs, JSON/XML
 - Specialties with web and mobile UI frameworks of Bootstrap, Onsen UI, Ionic, Framework7, jQuery Mobile
 - Experience with unit testing, functional testing, automation testing and writing test document
 - Developing using DevOps tools and version control like Git, GitLab, GitHub
 - Strong at strategic planning, project conception, analysis and problem solving
-- Experience working with key stakeholders cross-functional team
-- Delivery of software development projects through experience in multiple methodologies.
-- Familiar and can manage the project by Agile, Kanban, Waterfall
+- Experience working with key stakeholders and a cross-functional teams
+- Experienced in delivering software projects through various methodologies, including Agile, Kanban and Waterfall

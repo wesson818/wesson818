@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... front end and hybrid mobile app
 - 🤔 I’m looking for help with ... AWS & Google Cloud
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/wen818/)
-- ⚡ Fun fact: ... I am a huge sports fan. I have a basketball team called Bulldogs. We play every Monday night. Love gym workout and running. I am a licensed freediver and I like to challenge myself to dive deeper. My personal best is 17 meters under the water in one breath. 
+- ⚡ Fun fact: ... I am a huge sports fan. I have a basketball team called Bulldogs and play every Monday night. Love gym workout and running. I am a licensed freediver and I like to challenge myself to dive deeper. My personal best is 17 meters under the water in one breath. 
 
 ### Areas of expertise:
 - Front end development using HTML5, CSS3, JavaScript ES5 and ES6 focusing on UX/UI crossing different browsers and devices

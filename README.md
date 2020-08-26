@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - Strong at strategic planning, project conception, analysis and problem solving
 - Experience working with key stakeholders and a cross-functional teams
 - Experienced in delivering software projects through various methodologies, including Agile, Kanban and Waterfall
+

@@ -1,4 +1,4 @@
-### My name is WenJing Zhang and I'm a front-end developer! 👋
+### My name is WenJing Zhang and I'm a full stack developer! 👋
 
 <!--
 **wesson818/wesson818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
